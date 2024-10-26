@@ -4,7 +4,7 @@ Extensão que captura seguidores verificados na conta do "X" do usuário conecta
 ## Descrição
 
 Esta extensão lê os dados na sua página carregada e portanto não vai contra nenhuma política do "X".
-Ela coletas seguidores verificados no Twitter apresentando a quantidade na tela e fazendo um arquivo CSV com o "endereço @" de seus seguidores.
+Ela coletas seguidores verificados no Twitter apresentando a quantidade na tela e baixando um arquivo CSV com o "endereço @" de seus seguidores.
 
 ## Instalação
 
