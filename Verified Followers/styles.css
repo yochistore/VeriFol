@@ -1,0 +1,28 @@
+/* Estilos gerais */
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end; /* Garante que o conteúdo vai ficar no final da tela */
+}
+
+/* Estilos do painel fixado na parte inferior */
+.botao-painel {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f1f1f1;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1); /* Sombra opcional */
+}
+
+/* Estilos dos botões */
+.botao-painel button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
